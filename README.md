@@ -9,7 +9,6 @@
        alt="snake" /></a>
 </div>
 
-FLAG{HelloIAmWilliamTheSoftwareDeveloper}
 
 -----
 
